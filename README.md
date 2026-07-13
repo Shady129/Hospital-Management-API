@@ -52,6 +52,16 @@ HospitalManagementAPI
 └── SQL Server Database
 ```
 
+# 🗄️ Database Schema
+
+The following Entity Relationship Diagram (ERD) illustrates the database structure and relationships between the main entities.
+
+![Hospital Management ERD](images/HospitalManagementERD.png)
+
+---
+
+
+
 ### Request Flow
 
 ```
