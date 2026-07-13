@@ -56,7 +56,7 @@ HospitalManagementAPI
 
 The following Entity Relationship Diagram (ERD) illustrates the database structure and relationships between the main entities.
 
-![Hospital Management ERD](images/HospitalManagementERD.png)
+![Hospital Management ERD](images/Hospital%20Management%20ERD.png)
 
 ---
 
